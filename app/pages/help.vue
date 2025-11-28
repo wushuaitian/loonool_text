@@ -6,7 +6,7 @@
     
     <!-- 左侧 Logo + 文本 -->
     <div class="nav-left">
-      <img src="../../imag/logo.png" alt="Loonool Logo" class="logo-img" />
+      <img src="/imag/logo.png" alt="Loonool Logo" class="logo-img" />
       <span class="logo-text">Loonool</span>
     </div>
 
